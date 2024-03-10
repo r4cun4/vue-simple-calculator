@@ -33,3 +33,5 @@ npm run dev
 ```sh
 npm run build
 ```
+
+![image](https://github.com/r4cun4/vue-simple-calculator/assets/77390217/f09b9e45-f404-4305-aa72-e7023398a43a)
